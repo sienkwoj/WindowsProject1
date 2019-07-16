@@ -8,8 +8,6 @@ Komorka::Komorka()
 	StanBiezacy = false;
 	StanNastepny = false;
 	ZywiSasiedzi = 0;
-	ZywiSasiedzi = 1;
-	ZywiSasiedzi = 0;
 }
 
 Komorka::Komorka(bool StanNarodzin)
