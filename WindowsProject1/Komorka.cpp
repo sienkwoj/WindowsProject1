@@ -1,5 +1,5 @@
 #include "Komorka.h"
-
+// Test gita
 
 
 Komorka::Komorka()
